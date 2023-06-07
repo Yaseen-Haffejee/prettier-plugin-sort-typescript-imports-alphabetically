@@ -1,0 +1,23 @@
+{
+  "name": "prettier-plugin-sort-typescript-imports-alphabetically",
+  "version": "1.0.0",
+  "description": "A plugin that will sort the imports of your typescript file alphabetically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaseen-Haffejee/prettier-plugin-sort-typescript-imports-alphabetically.git"
+  },
+  "author": "Yaseen Haffejee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaseen-Haffejee/prettier-plugin-sort-typescript-imports-alphabetically/issues"
+  },
+  "homepage": "https://github.com/Yaseen-Haffejee/prettier-plugin-sort-typescript-imports-alphabetically#readme",
+  "dependencies": {
+    "prettier": "^2.8.8",
+    "typescript": "^5.1.3"
+  }
+}
